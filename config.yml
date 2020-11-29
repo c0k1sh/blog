@@ -1,0 +1,4 @@
+deploy：
+  type：git；
+  repository：https://github.com/c0k1sh/blog.git
+  branch：gh-pages
